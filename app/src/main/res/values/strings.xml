@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">imagebutton</string>
+    <string name="click_to_next">Click to Next 👉</string>
 </resources>
